@@ -1,1 +1,2 @@
-![Hrishikesh's Github Stats](https://github-readme-stats.vercel.app/api?username=hrishikesh214&count_private=true&show_icons=true&theme=dark&repo=dreamchat)
+![[Hrishikesh's Github Stats](https://github.com/hrishikesh214)](https://github-readme-stats.vercel.app/api?username=hrishikesh214&count_private=true&show_icons=true&theme=dark&repo=dreamchat)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=hrishikesh214&theme=dark&hide=html&layout=compact)
